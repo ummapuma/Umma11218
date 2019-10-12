@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce7d0f1-fa58-4e0c-8f47-367e3484c7a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RCP93EQgM7RDokJzWDgTlwS5fg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testNG_0922" />
+      <recent name="TestNG_0929" />
+      <recent name="Reusable_Classes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ummai\Desktop\SeleniumAutomation0922\src\main\resources" />
+      <recent name="C:\Users\ummai\Desktop\SeleniumAutomation0922\src\main\java\Yahoo_Page_Object" />
+      <recent name="C:\Users\ummai\Desktop\SeleniumAutomation0922\src\test\java\Yahoo_Test_Page_Object" />
+      <recent name="C:\Users\ummai\Desktop\SeleniumAutomation0922\src\main\java\Reusable_Classes" />
+      <recent name="C:\Users\ummai\Desktop\SeleniumAutomation0922\src\test\java\TestNG_0929" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TC02_Yahoo_Registration.Yahoo_Registration">
+    <configuration name="C:/Users/ummai/Desktop/SeleniumAutomation0922/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ummai/Desktop/SeleniumAutomation0922/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_Yahoo_Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC01_Yahoo_Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_Yahoo_Search.Yahoo_Search_Result" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC01_Yahoo_Search" />
+      <option name="METHOD_NAME" value="Yahoo_Search_Result" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Registration.Yahoo_Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Registration" />
+      <option name="METHOD_NAME" value="Yahoo_Registration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightWatchers_TestNG" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumAutomation0922" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG_0922.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG_0922" />
+      <option name="MAIN_CLASS_NAME" value="testNG_0922.WeightWatchers_TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC02_Yahoo_Registration.Yahoo_Registration" />
+        <item itemvalue="TestNG.C:/Users/ummai/Desktop/SeleniumAutomation0922/src/test/java/Yahoo_Test_Page_Object/Yahoo_Registration_Test.xml" />
+        <item itemvalue="TestNG.TC01_Yahoo_Search.Yahoo_Search_Result" />
+        <item itemvalue="TestNG.C:/Users/ummai/Desktop/SeleniumAutomation0922/src/test/java/Yahoo_Test_Page_Object/yahooSuite.xml" />
+        <item itemvalue="TestNG.TC01_Yahoo_Search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce7d0f1-fa58-4e0c-8f47-367e3484c7a8" name="Default Changelist" comment="" />
+      <created>1569167949066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569167949066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumAutomation0922$TC01_Yahoo_Search.ic" NAME="TC01_Yahoo_Search Coverage Results" MODIFIED="1570820695739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Yahoo_Test_Page_Object.*</FILTER>
+    </SUITE>
+  </component>
+</project>

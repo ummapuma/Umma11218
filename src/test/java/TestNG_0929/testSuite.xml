@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="none">
+    <test name="TestSuit">
+        <classes>
+            <class name="testNG_0922.WeightWatchers_TestNG" />
+            <class name="TestNG_0929.express_data_driven_loggers" />
+        </classes>
+    </test>
+</suite>
